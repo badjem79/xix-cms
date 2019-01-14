@@ -1,20 +1,40 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Un Librogame "unico"
+subtitle: In una Torino mostruosa del XIX secolo vivrai una avventura irripetibile
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Perchè XIX?
+  text: >-
+    Un periodo storico pieno di avvenimenti per la Città Magica (Torino) fa da
+    sfondo a trame e manipolazioni da esseri sovrumani che si son ben infiltrati
+    in tutti i livelli della socità. Indaga sulle macchinazioni e affrontali in
+    un librogame unico in cui il protagonista sei tu e le scelte che fai possono
+    fare la differenza .
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Le Origini
+  text: >-
+    Il librogame XIX nasce da un omonimo gioco di carte mai rilasciato al
+    pubblico (chissà in futuro... ndr) e permette di incontrare personaggi  e
+    visitare luoghi storici ma in un universo in cui tutto ciò è manipolato e
+    corrotto da esseri mostruosi che si muovono nell'oscurità e non vogliono
+    essere scoperti.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/wolf-howl.png
+    text: >-
+      Esseri che si possono trasformare in feroci animali, hanno dalla loro la
+      forza bruta ma scarseggiano in diplomazia.
+  - image: /img/fangs.png
+    text: >-
+      Mostri dalle fauci affilate e con una inarrestabile sete di sangue, sono
+      geniali nel manipolare durante la notte, ma temono la luce del sole e di
+      essere scoperti.
+  - image: /img/cultist.png
+    text: >-
+      Cultisti e stregoni dell'occulto, fanno prodigi con la magia (nera), ma
+      molto spesso questo li costringe a sacrificare qualunque cosa per i loro
+      scopi.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Le regole
+  text: 'Basato sulle regole semplificate di FATE Accelerato, '
 ---
 
