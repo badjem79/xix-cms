@@ -56,7 +56,7 @@ main:
     image: ''
 testimonials:
   - author: Fabio
-    quote: '"Un sistema di gioco leggero e nutriente per le vostre sessioni di ruolo'
+    quote: Un sistema di gioco leggero e nutriente per le vostre sessioni di ruolo
 full_image: /img/home-about-section.jpg
 pricing:
   heading: ''
