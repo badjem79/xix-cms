@@ -1,19 +1,15 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contatti
+logo: /img/logoXIX.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: |-
+      Torino, ancora non abbiamo una
+      sede fisica perché
+      il mondo intero è il nostro luogo preferito!
+  - heading: Contatti
+    text: 'Scrivici a badjem79 [at] gmail.com oppure cercami su facebook!'
 ---
+Ci piacerebbe metterci in contatto con te e ascoltare le tue idee e domande. Cerchiamo di crescere e migliorare costantemente e il tuo feedback è prezioso per noi.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+È inoltre possibile utilizzare il modulo sottostante per eventuali domande e richieste per partecipare al progetto, o la pianificazione di una sessione 1-a-1 con noi. Non essere timido, scrivici!
