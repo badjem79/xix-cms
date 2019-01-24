@@ -51,16 +51,9 @@ main:
   image2:
     alt: Vittorio Emanuele II
     image: /img/v9.png
-  image3:
-    alt: Coffee beans
-    image: ''
 testimonials:
   - author: Fabio
     quote: Un sistema di gioco leggero e nutriente per le vostre sessioni di ruolo
-full_image: /img/home-about-section.jpg
-pricing:
-  heading: ''
-  description: ''
-  plans: []
+full_image: /img/lupo.jpg
 ---
 
